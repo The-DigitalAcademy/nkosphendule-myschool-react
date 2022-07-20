@@ -29,9 +29,9 @@ const navLinks = [
 const Header = () => {
   return <section>
     <Container>
-        <div className="navigation d-flex align-items-">
+        <div className="navigation d-flex align-items-center justify-content-between">
             <div className="logo">
-                <h2>
+                <h2 className='d-flex align-items-center justify-content-between'>
                 <i class="ri-pantone-line"></i> Learners.
                 </h2>
             </div>
@@ -53,7 +53,9 @@ const Header = () => {
                     </div>
 
                     <div className='nav_right'>
-                    <p><i class="ri-phone-line"></i> +27 887 9089</p>
+                      <p className='mb-0 d-flex align-items-center gap-3'>
+                        <i class="ri-phone-line"></i> +27 887 9089
+                      </p>
                     </div>
             </div>
         </div>
