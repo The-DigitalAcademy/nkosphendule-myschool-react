@@ -5,6 +5,7 @@ import CompanySection from "../components/Company-section/Company";
 
 import AboutUs from "../components/About-us/AboutUs";
 import Courses from "../components/Courses-section/Courses";
+import ChooseUs from "../components/Choose-us/ChooseUs";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
     <CompanySection/>
     <AboutUs/>
     <Courses/>
+    <ChooseUs/>
   </Fragment>
   );
 };
