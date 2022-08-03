@@ -15,29 +15,29 @@
  .nav_item a{
     font-weight: 500;
     font-size: 1.1rem;
-    color: #0f2019;
+    color: #0a2b1e;
     text-decoration: none;
     transition: 0.3s;
  }
 
  .nav_item a:hover{
-    color: #22ac90;
+    color: #17bf9e;
  }
 
  .nav_right p{
     font-weight: 500;
-    color: #12412e;
+    color: #0a2b1e;
     font-size: 1.1rem;
  }
 
 
-.nav_right p{
+.nav_right p i {
     font-size: 1.3rem;
 }
 
 .mobile_menu span i{
     font-size: 1.4rem;
-    color: #2c4b21ef;
+    color: #0a2b1e;
 }
 
 .mobile_menu{
@@ -45,7 +45,7 @@
 }
 
 @media only screen and (max-width: 991px){
-    .mobile_menu{
+    .nav_menu{
         position: fixed;
         top: 0;
         left: 0;
@@ -63,6 +63,7 @@
         right: 0;
         width: 250px;
         height: 100%;
+        display: flex;
         flex-direction: column;
         align-items: center;
         z-index: 999;
