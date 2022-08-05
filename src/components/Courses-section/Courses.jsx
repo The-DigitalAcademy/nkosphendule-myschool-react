@@ -46,7 +46,7 @@ const Courses = () => {
                     <div className="course_top d-flex justify-content-between align-items-center">
                         <div className="course_top_left w-50">
                             <h2>Our Popular Courses</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique nostrum eveniet accusamus beatae est aspernatur ab doloremque voluptatem, voluptate aliquid!</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, facilis.</p>
                         </div>
 
                         <div className="w-50 text-end">

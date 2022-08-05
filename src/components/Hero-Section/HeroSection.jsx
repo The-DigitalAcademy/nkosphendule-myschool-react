@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Container,Row, Col } from "reactstrap";
-import heroImg from "../../assests/images/hero-img1.png";
+import heroImg from "../../assests/images/teacher.png";
 import './hero-section.css'
 
 const HeroSection = () => {
@@ -16,7 +16,7 @@ const HeroSection = () => {
                 Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
                 </h2>
                 <p className="mb-4">
-                  Lorem ipsum dolor sit amet consectetur  adipisicing elit.<br /> Laboriosam quis at natus aspernatur nobis ipsum vero doloribus <br /> consequatur nostrum autem.</p>
+                The four-part series is expected to reveal whether the educator is guilty or if she’s been wrongfully accused.</p>
 
                 <div className="search">
                     <input type="text" placeholder="Search" />

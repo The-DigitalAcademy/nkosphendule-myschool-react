@@ -55,9 +55,9 @@ const menuToggle = ()=> menuRef.classList.toggle("active_menu")
                     </div>
 
                     <div className="nav_right">
-                      <p className="mb-0 d-flex align-items-center gap-2">
+                      {/* <p className="mb-0 d-flex align-items-center gap-2">
                         <i class="ri-phone-line"></i> +27 887 9089
-                      </p>
+                      </p> */}
                     </div>
                 </div>
 
