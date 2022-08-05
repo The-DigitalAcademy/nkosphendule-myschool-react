@@ -13,18 +13,7 @@ const navLinks = [
         display: "About",
         url:'#'
     },
-    {
-        display: "Courses",
-        url:'#'
-    },
-    {
-        display: "Page",
-        url:'#'
-    },
-    {
-        display: "Blog",
-        url:'#'
-    },
+    
 ];
 
 const Header = () => {
