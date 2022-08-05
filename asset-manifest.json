@@ -1,27 +1,21 @@
 {
   "files": {
-    "main.css": "/nkosphendule-myschool-react/static/css/main.adf31dca.css",
-    "main.js": "/nkosphendule-myschool-react/static/js/main.4fb44c3a.js",
+    "main.css": "/nkosphendule-myschool-react/static/css/main.6a4cbd23.css",
+    "main.js": "/nkosphendule-myschool-react/static/js/main.58caa248.js",
+    "static/media/team us.png": "/nkosphendule-myschool-react/static/media/team us.97e508555f9dd2dfe092.png",
+    "static/media/teacher.png": "/nkosphendule-myschool-react/static/media/teacher.baa1b52236a9a3a342af.png",
     "static/media/remixicon.svg?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/remixicon.woff?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.8d09fa11700ed63cf96e.woff",
-    "static/media/hero-img1.png": "/nkosphendule-myschool-react/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
     "static/media/remixicon.woff2?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/about-us.png": "/nkosphendule-myschool-react/static/media/about-us.7cee11852f1eba53f13f.png",
-    "static/media/web-design.png": "/nkosphendule-myschool-react/static/media/web-design.9071c3ef125375e2469a.png",
     "static/media/why-choose-us.png": "/nkosphendule-myschool-react/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
-    "static/media/seo.png": "/nkosphendule-myschool-react/static/media/seo.b323da636359c745b6dc.png",
-    "static/media/web-development.png": "/nkosphendule-myschool-react/static/media/web-development.91ce53388df7bc88002c.png",
-    "static/media/kids-learning.png": "/nkosphendule-myschool-react/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
-    "static/media/ui-ux.png": "/nkosphendule-myschool-react/static/media/ui-ux.0366b465b35da2e796bb.png",
-    "static/media/graphics-design.png": "/nkosphendule-myschool-react/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
     "index.html": "/nkosphendule-myschool-react/index.html",
-    "main.adf31dca.css.map": "/nkosphendule-myschool-react/static/css/main.adf31dca.css.map",
-    "main.4fb44c3a.js.map": "/nkosphendule-myschool-react/static/js/main.4fb44c3a.js.map"
+    "main.6a4cbd23.css.map": "/nkosphendule-myschool-react/static/css/main.6a4cbd23.css.map",
+    "main.58caa248.js.map": "/nkosphendule-myschool-react/static/js/main.58caa248.js.map"
   },
   "entrypoints": [
-    "static/css/main.adf31dca.css",
-    "static/js/main.4fb44c3a.js"
+    "static/css/main.6a4cbd23.css",
+    "static/js/main.58caa248.js"
   ]
 }
