@@ -36,12 +36,12 @@ const ChooseUs = () => {
                         <img src={chooseImg} alt="" className="w-100" />
                     )}
                 
-                   {
+                   {/* {
                     !showVideo &&  <span className="play_icon">
                     <i class="ri-play-circle-line" onClick={()=>
                     setShowVideo(!showVideo)}></i>
                     </span>
-                   }
+                   } */}
                 </div>
             </Col>
         </Row>

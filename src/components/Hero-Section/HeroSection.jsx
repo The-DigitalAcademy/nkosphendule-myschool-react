@@ -18,10 +18,10 @@ const HeroSection = () => {
                 <p className="mb-4">
                 The four-part series is expected to reveal whether the educator is guilty or if she’s been wrongfully accused.</p>
 
-                <div className="search">
+                {/* <div className="search">
                     <input type="text" placeholder="Search" />
                     <button className="btn">Search</button>
-                </div>
+                </div> */}
                </div>
             </Col>
             <Col lg="6" md="6">
