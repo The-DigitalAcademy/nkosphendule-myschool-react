@@ -2,7 +2,7 @@ import React from 'react';
 import './about.css'
 import { Container,Row, Col } from 'reactstrap';
 import aboutImg from "../../assests/images/team us.png";
-import CountUp from 'react-countup';
+// import CountUp from 'react-countup';
 import './about.css';
 
 const AboutUs = () => {
@@ -26,7 +26,7 @@ const AboutUs = () => {
                     <div className="about_counter">
                     <div className=" d-flex gap-5 align-items-center">
                         <div className="single_counter">
-                            <h1></h1>
+                            
                             {/* <span className="counter">
                                 <CountUp start={0} end={25} duration={2} suffix="K"/>
                             </span> */}
@@ -46,7 +46,7 @@ const AboutUs = () => {
 
                      <div className=" d-flex gap-5 align-items-center">
                      <div className="single_counter">
-                        <h1></h1>
+                        
                             {/* <span className="counter">
                                 <CountUp start={0} end={25} duration={2} suffix="K"/>
                             </span>    */}
@@ -59,7 +59,7 @@ const AboutUs = () => {
                             {/* <span className="counter">
                                 <CountUp start={0} end={12} duration={2} suffix="M"/>
                             </span>   */}
-                            <h1></h1>
+                            
 
                         {/* <p className='counter_title'>Patient Around World</p> */}
                         </div>
