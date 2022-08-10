@@ -20,7 +20,7 @@ const AboutUs = () => {
                     <div className="about_content">
                         <h2>About Us</h2>
                         <p>
-                        Have you ever wanted to show your appreciation for a teacher that altered your life? Show your appreciation and share your experience with the world!
+                        team work a project html, js and css
                         </p>
 
                     <div className="about_counter">
@@ -35,7 +35,7 @@ const AboutUs = () => {
                         </div>
 
                         <div className="single_counter">
-                            <h1></h1>
+                            
                           {/* <span className="counter">
                             <CountUp start={0} end={12} duration={2} suffix="M"/>
                           </span>   */}

@@ -17,7 +17,7 @@ const ChooseUs = () => {
             <Col lg="6">
                 <div className="choose_content">
                     <h2>Why Choose Us</h2>
-                    <p>LIf you are a student, a former student, or an educator and have an interesting story about your experience, please tell us about it. 
+                    <p>listening learn and information
                     </p>
                 </div>
             </Col>
