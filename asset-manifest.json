@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nkosphendule-myschool-react/static/css/main.6a4cbd23.css",
-    "main.js": "/nkosphendule-myschool-react/static/js/main.c7e5ed29.js",
+    "main.js": "/nkosphendule-myschool-react/static/js/main.e7342cbf.js",
     "static/media/team us.png": "/nkosphendule-myschool-react/static/media/team us.97e508555f9dd2dfe092.png",
     "static/media/teacher.png": "/nkosphendule-myschool-react/static/media/teacher.baa1b52236a9a3a342af.png",
     "static/media/remixicon.svg?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -12,10 +12,10 @@
     "static/media/why-choose-us.png": "/nkosphendule-myschool-react/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
     "index.html": "/nkosphendule-myschool-react/index.html",
     "main.6a4cbd23.css.map": "/nkosphendule-myschool-react/static/css/main.6a4cbd23.css.map",
-    "main.c7e5ed29.js.map": "/nkosphendule-myschool-react/static/js/main.c7e5ed29.js.map"
+    "main.e7342cbf.js.map": "/nkosphendule-myschool-react/static/js/main.e7342cbf.js.map"
   },
   "entrypoints": [
     "static/css/main.6a4cbd23.css",
-    "static/js/main.c7e5ed29.js"
+    "static/js/main.e7342cbf.js"
   ]
 }
