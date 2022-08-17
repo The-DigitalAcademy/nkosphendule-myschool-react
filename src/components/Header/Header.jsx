@@ -5,14 +5,14 @@ import "remixicon/fonts/remixicon.css";
 import "bootstrap/dist/css/bootstrap.min.css"; 
 
 const navLinks = [
-    // {
-    //     display: "Home",
-    //     url:'#'
-    // },
-    // {
-    //     display: "About",
-    //     url:'#'
-    // },
+    {
+        display: "Home",
+        url:'#'
+    },
+    {
+        display: "About",
+        url:'#'
+    },
     
 ];
 
