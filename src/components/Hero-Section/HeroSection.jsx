@@ -16,12 +16,7 @@ const HeroSection = () => {
                 Anytime <br /> Learn on your <br /> Schedule
                 </h2>
                 <p className="mb-4">
-                Teacher and children a learn book and development.</p>
-
-                {/* <div className="search">
-                    <input type="text" placeholder="Search" />
-                    <button className="btn">Search</button>
-                </div> */}
+                Teacher and chidren a learn book and development.</p>
                </div>
             </Col>
             <Col lg="6" md="6">

@@ -21,9 +21,8 @@ const Home = () => {
     <AboutUs/>
     <ChooseUs/>
     <FreeCourse/>
-    {/* <Testimonals/> */}
+    <Testimonals/>
   </Fragment>
-
   );
 };
 

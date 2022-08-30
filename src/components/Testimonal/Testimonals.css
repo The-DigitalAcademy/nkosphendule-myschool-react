@@ -3,3 +3,13 @@
 .testimonal_content h2{
     font-weight: 600;
 }
+
+img {
+    width: 19rem ;
+    height: 100%;
+    border-radius: 1em;
+}
+
+.student_info h6{
+    padding-right: 50%;
+}

@@ -14,34 +14,22 @@ import "./free-course.css"
 const FreeCourseData = [
     {
         id:"01",
-        // title: "Basic Web Development Course",
         imgUrl: courseImg01,
-        // students: 5.3,
-        // rating: 1.7,
     },
 
     {
         id:"02",
-        // title: "Coding for Junior Basic Course",
         imgUrl: courseImg02,
-        // students: 5.3,
-        // rating: 1.7,
     },
 
     {
         id:"03",
-        // title: "Search Engine Optimization - Basic",
         imgUrl: courseImg03,
-        // students: 5.3,
-        // rating: 1.7,
     },
 
     {
         id:"04",
-        // title: "Basic UI/UX Design - Figma",
         imgUrl: courseImg04,
-        // students: 5.3,
-        // rating: 1.7,
     },
 ]
 
