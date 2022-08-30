@@ -11,6 +11,10 @@ import ChooseUs from "../components/Choose-us/ChooseUs";
 import Testimonals from "../components/Testimonal/Testimonals";
 
 
+import Newsletter from "../components/Newsletter/Newsletter";
+import Footer from "../components/Footer/Footer";
+
+
 
 
 const Home = () => {
@@ -22,7 +26,10 @@ const Home = () => {
     <ChooseUs/>
     <FreeCourse/>
     <Testimonals/>
+    {/* <Newsletter/> */}
+    {/* <Footer/> */}
   </Fragment>
+
   );
 };
 
