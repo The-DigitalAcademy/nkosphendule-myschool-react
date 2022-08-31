@@ -69,7 +69,6 @@ const Footer = () => {
 
             {/* <Col lg="3">
                 <h6>Get in Touch</h6>
-
                 <p>Address:Orange Farm</p>
                 <p> Phone: +27 634244380 </p>
                 <p>Email: example@gmail.com</p>
