@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nkosphendule-myschool-react/static/css/main.44431984.css",
-    "main.js": "/nkosphendule-myschool-react/static/js/main.e5ef7410.js",
+    "main.css": "/nkosphendule-myschool-react/static/css/main.1fdf4c29.css",
+    "main.js": "/nkosphendule-myschool-react/static/js/main.9dfdf850.js",
     "static/media/computer.png": "/nkosphendule-myschool-react/static/media/computer.15d12da863dd782a1c5b.png",
     "static/media/team us.png": "/nkosphendule-myschool-react/static/media/team us.97e508555f9dd2dfe092.png",
     "static/media/learn.png": "/nkosphendule-myschool-react/static/media/learn.c0f5440db2d53673aa59.png",
@@ -13,14 +13,13 @@
     "static/media/remixicon.ttf?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/remixicon.woff?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/why-choose-us.png": "/nkosphendule-myschool-react/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
     "static/media/web-development.png": "/nkosphendule-myschool-react/static/media/web-development.91ce53388df7bc88002c.png",
     "index.html": "/nkosphendule-myschool-react/index.html",
-    "main.44431984.css.map": "/nkosphendule-myschool-react/static/css/main.44431984.css.map",
-    "main.e5ef7410.js.map": "/nkosphendule-myschool-react/static/js/main.e5ef7410.js.map"
+    "main.1fdf4c29.css.map": "/nkosphendule-myschool-react/static/css/main.1fdf4c29.css.map",
+    "main.9dfdf850.js.map": "/nkosphendule-myschool-react/static/js/main.9dfdf850.js.map"
   },
   "entrypoints": [
-    "static/css/main.44431984.css",
-    "static/js/main.e5ef7410.js"
+    "static/css/main.1fdf4c29.css",
+    "static/js/main.9dfdf850.js"
   ]
 }
