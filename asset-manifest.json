@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nkosphendule-myschool-react/static/css/main.1fdf4c29.css",
-    "main.js": "/nkosphendule-myschool-react/static/js/main.9dfdf850.js",
+    "main.js": "/nkosphendule-myschool-react/static/js/main.2f70e119.js",
     "static/media/computer.png": "/nkosphendule-myschool-react/static/media/computer.15d12da863dd782a1c5b.png",
     "static/media/team us.png": "/nkosphendule-myschool-react/static/media/team us.97e508555f9dd2dfe092.png",
     "static/media/learn.png": "/nkosphendule-myschool-react/static/media/learn.c0f5440db2d53673aa59.png",
@@ -16,10 +16,10 @@
     "static/media/web-development.png": "/nkosphendule-myschool-react/static/media/web-development.91ce53388df7bc88002c.png",
     "index.html": "/nkosphendule-myschool-react/index.html",
     "main.1fdf4c29.css.map": "/nkosphendule-myschool-react/static/css/main.1fdf4c29.css.map",
-    "main.9dfdf850.js.map": "/nkosphendule-myschool-react/static/js/main.9dfdf850.js.map"
+    "main.2f70e119.js.map": "/nkosphendule-myschool-react/static/js/main.2f70e119.js.map"
   },
   "entrypoints": [
     "static/css/main.1fdf4c29.css",
-    "static/js/main.9dfdf850.js"
+    "static/js/main.2f70e119.js"
   ]
 }
