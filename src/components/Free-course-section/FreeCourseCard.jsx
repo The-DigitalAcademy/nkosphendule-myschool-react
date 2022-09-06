@@ -11,7 +11,7 @@ const FreeCourseCard = (props) => {
   return  (
   <div className="singe_free_course">
   <div className="free_course_img mb-5">
-      <img src={imgUrl} alt="" className='w-100'/>
+      <img src={imgUrl} alt="" className='w-100'/>  
   </div>
 
   <div className="">
