@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../components/Header/Header";
+import "../App.css";
 
 const About = () => {
   return (
@@ -90,7 +91,7 @@ const About = () => {
             <div class="card">
               <div class="card-body">
                 <img
-                  src="https://www.hauni.com/fileadmin/Digital_Academy/Digital_Academy_-_Lesson_Overview.jpg"
+                  src="https://images.pexels.com/photos/8059116/pexels-photo-8059116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                   alt=""
                 ></img>
                 <h5 class="card-title">Technology</h5>

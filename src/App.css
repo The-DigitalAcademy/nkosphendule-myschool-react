@@ -35,8 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.card {
-  margin: 100%;
+}.card img{
+  width: 100%;
+  height: 300px;
 }
