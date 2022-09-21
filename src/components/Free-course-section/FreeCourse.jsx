@@ -3,10 +3,11 @@
 import React from 'react';
 import { Container,Row,Col } from 'reactstrap';
 
-import courseImg01 from "../../assests/images/web-development.png"
-import courseImg02 from "../../assests/images/study.png"
+import courseImg01 from "../../assests/images/web-development.png";
+import courseImg02 from "../../assests/images/study.png";
 import courseImg03 from "../../assests/images/learn.png";
 import courseImg04 from "../../assests/images/computer.png"; 
+
 import FreeCourseCard from './FreeCourseCard';
 
 import "./free-course.css"
@@ -31,6 +32,8 @@ const FreeCourseData = [
         id:"04",
         imgUrl: courseImg04,
     },
+
+    
 ]
 
 const FreeCourse = () => {
