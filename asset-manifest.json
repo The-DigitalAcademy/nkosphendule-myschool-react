@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nkosphendule-myschool-react/static/css/main.69aaa963.css",
-    "main.js": "/nkosphendule-myschool-react/static/js/main.f07f97f7.js",
+    "main.js": "/nkosphendule-myschool-react/static/js/main.8d3233b6.js",
     "static/media/computer.png": "/nkosphendule-myschool-react/static/media/computer.15d12da863dd782a1c5b.png",
     "static/media/team us.png": "/nkosphendule-myschool-react/static/media/team us.97e508555f9dd2dfe092.png",
     "static/media/learn.png": "/nkosphendule-myschool-react/static/media/learn.c0f5440db2d53673aa59.png",
@@ -9,17 +9,19 @@
     "static/media/voice.png": "/nkosphendule-myschool-react/static/media/voice.fe4804e39a2d6860edb2.png",
     "static/media/study.png": "/nkosphendule-myschool-react/static/media/study.2b54e42cbe101eff896c.png",
     "static/media/remixicon.svg?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/photo-teach.jpeg": "/nkosphendule-myschool-react/static/media/photo-teach.90a8da0f5d0f4b25d5d6.jpeg",
     "static/media/remixicon.eot?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/remixicon.woff?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/nkosphendule-myschool-react/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/photo-png.jpeg": "/nkosphendule-myschool-react/static/media/photo-png.566707a5140abc416dee.jpeg",
     "static/media/web-development.png": "/nkosphendule-myschool-react/static/media/web-development.91ce53388df7bc88002c.png",
     "index.html": "/nkosphendule-myschool-react/index.html",
     "main.69aaa963.css.map": "/nkosphendule-myschool-react/static/css/main.69aaa963.css.map",
-    "main.f07f97f7.js.map": "/nkosphendule-myschool-react/static/js/main.f07f97f7.js.map"
+    "main.8d3233b6.js.map": "/nkosphendule-myschool-react/static/js/main.8d3233b6.js.map"
   },
   "entrypoints": [
     "static/css/main.69aaa963.css",
-    "static/js/main.f07f97f7.js"
+    "static/js/main.8d3233b6.js"
   ]
 }
