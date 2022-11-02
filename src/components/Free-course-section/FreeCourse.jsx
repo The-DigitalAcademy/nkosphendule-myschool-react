@@ -41,7 +41,7 @@ const FreeCourse = () => {
   <section>
     <Container>
         <Row>
-            <Col lg="12" className='text-center mb-5'>
+            <Col lg="10" className='text-center mb-10'>
                 <h2 className='fw-bold'>Our Study and Learn</h2>
             </Col>
 

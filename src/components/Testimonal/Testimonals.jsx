@@ -34,7 +34,9 @@ const Testimonals = () => {
                       <p></p>
 
                       <div className="student_info">
-                        <h6>The media of hall </h6>
+                        <h5>The media of hall </h5>
+                        <br />
+                        
                         <p>DA, south africa</p>
                       </div>
                     </div>

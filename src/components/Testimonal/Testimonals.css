@@ -10,6 +10,9 @@ img {
     border-radius: 1em;
 }
 
-.student_info h6{
-    padding-right: 50%;
+.student_info {
+    
+    padding-right: 100%;
+    margin-right: 10%;
+    margin: 10%;
 }

@@ -61,7 +61,7 @@ const About = () => {
                   src="https://blog.asana.com/wp-content/post-images/Kinshasa-Digital-Academy-1024x756.jpg"
                   alt=""
                 ></img>
-                <h5 class="card-title">learn leader</h5>
+                <h5 class="card-title">Learn leader</h5>
               </div>
             </div>
           </div>

@@ -24,7 +24,6 @@ const AboutUs = () => {
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single_counter"></div>
 
-
                   <div className="single_counter"></div>
                 </div>
 

@@ -12,7 +12,7 @@ const HeroSection = () => {
         <Row>
           <Col lg="6" md="6">
             <div className="hero_content">
-              <h2 className="mb-5">Anytime Learn on your Schedule</h2>
+              <h2 className="mb-2">Anytime learn on your schedule</h2>
               <p className="mb-4">
                 Teacher and chidren a learn book and development.
               </p>
